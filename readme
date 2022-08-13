@@ -1,0 +1,13 @@
+[+] Requirements
+
+=> Python 2.7
+
+[+] Modules :
+
+=> colorama
+
+=> google
+
+( CMD => cd C:/python27/scripts && pip install google && pip install colorama )
+
+[+] Usage : scraper.py -d "Dork" number.of.websites -s listname.txt or python2 scraper.py -d "Dork" number.of.websites -s listname.txt
