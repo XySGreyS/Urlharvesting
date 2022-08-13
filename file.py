@@ -82,7 +82,7 @@ def prmain():
 			print ("-v,--version \tShow version")
 			print ("-s,--save \tEnable save List of websites in txt file")
 		elif arg == "-v" or arg == "--version":
-			print ("DorkScraper v1.0 By DrParad0x1999")
+			print ("DorkScraper v1.0 k4NCuT - R0b3K")
 		else:
 			print (bcolors.FAIL + "ERROR: Incorrect argument or sintaxis" + bcolors.ENDC)
 			
